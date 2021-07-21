@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on projects that will enhance my growth and also make things easier for you
 - 🤔 I’m looking for help with Nodejs, SQL, testing, Graphql
-- 💬 Ask me about HTML5, CSS3, JavaScript, NOSQL, React.js, Nodejs, Expressjs.
+- 💬 Ask me about HTML5, CSS3, JavaScript, React.js, Nodejs, Expressjs.
 - 📫 How to reach me: LinkedIn: Ubong Ndoh
   Gmail: ubongndoh@gmail.com
   ![Twitter Follow](https://img.shields.io/twitter/follow/DonUbwise?style=social)
