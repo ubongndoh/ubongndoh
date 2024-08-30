@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a donation app using React Native
 - 🌱 I’m currently learning  Cloud Devops Engineering
 - 👯 I’m looking to collaborate on projects that will enhance my growth and also make things easier for you
-  <-- - 🤔 I’m looking for help with Nodejs, SQL, testing, Graphql -->
+  <!-- - 🤔 I’m looking for help with Nodejs, SQL, testing, Graphql -->
 - 💬 Ask me about HTML5, CSS3, JavaScript, React.js, Next js React Native.
 - 📫 How to reach me: 
   LinkedIn: Ubong Ndoh
