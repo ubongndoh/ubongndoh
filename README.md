@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" />
 
-## I'm Ubong Ndoh, a Software Developer. I build things that works on the web and mobile.
+## I'm Ubong Ndoh, a Software Developer. I build great software that works on the web and mobile.
 
 Here are some ideas to get you started:
 
